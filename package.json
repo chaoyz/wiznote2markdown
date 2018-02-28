@@ -5,12 +5,23 @@
   "main": "wiz2md.js",
   "dependencies": {
     "commander": "^2.14.1",
-    "yamljs": "^0.3.0"
+    "adm-zip": "^0.4.7",
+    "h2m": "^0.6.0",
+    "path": "^0.12.7",
+    "sqlite3": "^3.1.13"
   },
   "devDependencies": {},
   "scripts": {
     "test": "make test"
   },
   "author": "yc",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaoyz/wiznote2markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chaoyz/wiznote2markdown/issues"
+  },
+  "homepage": "https://github.com/chaoyz/wiznote2markdown#readme"
 }
