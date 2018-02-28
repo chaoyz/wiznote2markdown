@@ -1,0 +1,16 @@
+{
+  "name": "wiznote2markdown",
+  "version": "1.0.0",
+  "description": "为知笔记批量转换成markdown格式文档",
+  "main": "wiz2md.js",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "yc",
+  "license": "ISC"
+}
